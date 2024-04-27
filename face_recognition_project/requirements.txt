@@ -1,0 +1,8 @@
+streamlit
+streamlit_autorefresh
+sklearn.neighbors
+numpy 
+csv
+cv2
+pickle
+pandas
